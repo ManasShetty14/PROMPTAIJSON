@@ -1,0 +1,98 @@
+{
+    "personal_info": {
+        "name": "Manas Shetty",
+        "title": "Software Developer",
+        "email": "manasshetty1412@gmail.com",
+        "phone": "7517483949",
+        "location": "Pune, India",
+        "date_of_birth": "14 December 2003"
+    },
+    "education": [
+        {
+            "degree": "BTECH",
+            "institution": "SRM Institute of Science and Technology (Kattankulathur), Chennai",
+            "dates": "09/2021\u201306/2025",
+            "details": "8.94 CGPA till 7th semester"
+        },
+        {
+            "institution": "Delhi Public School, Pune",
+            "details": "CBSE AISSCE 93%"
+        },
+        {
+            "institution": "Delhi Public School, Pune",
+            "details": "CBSE AISSE 93.2%"
+        }
+    ],
+    "projects": [
+        {
+            "title": "CLIMATE CHANGE PREDICTION",
+            "description": "Developed a Random Forest Regression model for climate temperature prediction, attaining low RMSE. Enabled user-driven forecasts for future years, enhancing climate analysis with data-driven insights. The model facilitates informed decision-making in climate-related fields by providing accurate predictions based on historical data."
+        },
+        {
+            "title": "Employee Turnover Prediction",
+            "description": "The project involved performing data quality checks to identify missing values, conducting exploratory data analysis (EDA) to understand factors contributing to turnover, and clustering employees based on satisfaction and evaluation metrics. Addressed class imbalance using the SMOTE technique and conducted k-fold cross-validation to train and evaluate models. The best model was identified using the F1 score, which balances precision and recall."
+        },
+        {
+            "title": "HIKE APP USING SwiftUI",
+            "description": "The hiking app is tailored for outdoor enthusiasts, offering easy access to essential hiking information. Its standout feature allows users to change the app icon, adding a personalized touch. With a focus on aesthetics and user preferences, the app provides a visually pleasing and customizable experience. Ideal for hikers who value simplicity and personalization, the app blends functionality with a visually appealing interface."
+        }
+    ],
+    "links": [
+        {
+            "label": "Github Profile",
+            "url": "https://github.com/ManasShetty14"
+        },
+        {
+            "label": "LinkedIn",
+            "url": "https://www.linkedin.com/in/manas-shetty-640b19274/"
+        }
+    ],
+    "skills": [
+        "Python",
+        "C++",
+        "SwiftUI",
+        "HTML & CSS",
+        "MySQL",
+        "Java",
+        "Programming",
+        "Advanced Analytical Thinking Skills"
+    ],
+    "certifications": [
+        {
+            "title": "Purdue University Post Graduate Program in AI and Machine Learning",
+            "date": "07/2024"
+        },
+        {
+            "title": "IBM Deep Learning with Tensorflow",
+            "date": "05/2024"
+        },
+        {
+            "title": "IBM Python For Data Science",
+            "date": "01/2024"
+        },
+        {
+            "title": "Hackerrank Problem Solving",
+            "date": "10/2023"
+        },
+        {
+            "title": "AWS Machine Learning Foundations",
+            "date": "07/2023"
+        },
+        {
+            "title": "Cisco Introduction to packet tracer",
+            "date": "04/2023"
+        },
+        {
+            "title": "CTECH Department Java Programming",
+            "date": "10/2022"
+        },
+        {
+            "title": "ServiceNow Microcertification",
+            "date": "01/2024"
+        },
+        {
+            "title": "ServiceNow Certified Application Developer",
+            "date": "05/2024"
+        }
+    ]
+}
